@@ -1,5 +1,5 @@
 # VSPARK — On-Spot Programming Competition Platform
-# Submitted by (Ahsan Ali Sp24-BSE-004 & Amir Shahzad SP24-BSE-007)
+# Submitted by (Ahsan Ali SP24-BSE-004 & Amir Shahzad SP24-BSE-007)
 # Submitted to: Sir Abdullah
 The official live coding arena for the **On-Spot Programming Competition** at **COMSATS University Islamabad, Vehari Campus**.  
 Built with **React.js, Node.js, Express, PostgreSQL (Sequelize / Supabase)**, and **Tailwind CSS**.
