@@ -255,27 +255,19 @@ title,problemStatement,difficulty,marks,validLanguages
 
 ---
 
-## 🚀 Live Deployment Guide
+## Screenshots
+<img width="944" height="437" alt="Screenshot 2026-11-21 224340" src="https://github.com/user-attachments/assets/6f7ddb43-49ff-4c45-886c-a1868b4eea87" />
 
-### Frontend on Vercel
-1. Push repository to GitHub.
-2. In Vercel, import the repository and set **Root Directory** to `frontend`.
-3. Add Environment Variable:
-   - `REACT_APP_API_URL` = `https://your-backend-app.onrender.com/api`
-4. The repository already includes [vercel.json](file:///c:/Users/Ahsan%20Ali/Desktop/Mid/frontend/vercel.json) to handle single-page React Router rewrites automatically.
+<img width="948" height="439" alt="Screenshot 2026-11-21 224358" src="https://github.com/user-attachments/assets/dee456e2-bff8-4f5e-97a1-09723c98e6c6" />
 
-### Backend on Render
-1. Create a **New Web Service** connected to your repository.
-2. Set **Root Directory** to `backend`.
-3. Set **Build Command** to `npm install`.
-4. Set **Start Command** to `node server.js`.
-5. Add Environment Variables:
-   - `NODE_ENV` = `production`
-   - `JWT_SECRET` = `(Your secure key)`
-   - `DB_HOST`, `DB_PORT`, `DB_NAME`, `DB_USER`, `DB_PASSWORD` = `(Your Supabase pooler credentials)`
+<img width="947" height="439" alt="Screenshot 2026-11-21 224412" src="https://github.com/user-attachments/assets/ec3f27e6-5901-42c8-b7de-89e0f2e27cd1" />
 
----
+<img width="948" height="436" alt="Screenshot 2026-11-21 224644" src="https://github.com/user-attachments/assets/32b2c2fb-534e-498f-b415-8225ce3e5e8c" />
 
-## 👥 Credits & Academic Context
+<img width="957" height="437" alt="Screenshot 2026-11-21 224702" src="https://github.com/user-attachments/assets/a2574501-b936-468f-9ec5-5c0f4d5cc268" />
 
-Developed for **COMSATS University, Vehari Campus** for conducting fair, reliable, and timed programming competitions.
+
+
+
+
+
